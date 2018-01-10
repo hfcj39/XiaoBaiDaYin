@@ -1,6 +1,10 @@
 # xiaobaidayin
 
-> An electron-vue project
+> 小白打印终端机端
+
+#### 简介
+
+小白打印的打印端，输入打印号打印已上传的文件。
 
 #### Build Setup
 
